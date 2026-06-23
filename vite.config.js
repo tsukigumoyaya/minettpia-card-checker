@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/minettpiaCardChecker/',
+  base: '/minettpia-card-checker/',
   plugins: [vue(), tailwindcss()],
 })
