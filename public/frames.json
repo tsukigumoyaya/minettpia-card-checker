@@ -1,0 +1,5 @@
+[
+  { "id": "frame_sr", "file": "SR.png", "label": "SR" },
+  { "id": "frame_r", "file": "R.png", "label": "R" },
+  { "id": "frame_n", "file": "N.png", "label": "N" }
+]
